@@ -52,6 +52,8 @@ Jõao P.C. Melo, Lucas V.G. Chaves, Maria E.V. Magalh̃aes, Natália G.P.L. Oliv
 
 Tello, Clédola & Grossi, Pablo & Mesquita, Amir. (2007). IPR-R1 TRIGA RESEARCH REACTOR DECOMMISSIONING: PRELIMINARY PLAN. 
 
+MIT Computational Reactor Physics Group (MIT CRPG). openmc-reactor-examples. GitHub. Available at: https://github.com/mit-crpg/openmc-reactor-examples.
+
 # Disclaimer!
 
 This project is an independent educational work. It is not affiliated with, endorsed by, or representative of any specific TRIGA reactor facility or organization.
