@@ -1,4 +1,4 @@
-# Triga-OpenMC-Model
+# TRIGA-OpenMC-Model
 An OpenMC implementation of a dimensions-based TRIGA reactor model. This is an independent educational model of a TRIGA-based research reactor, developed from publicly avaiable technical information.
 
 # Status
