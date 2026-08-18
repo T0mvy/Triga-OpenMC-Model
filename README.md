@@ -7,6 +7,7 @@ An OpenMC implementation of a dimensions-based TRIGA reactor model. This is an i
 This project is currently under development.
 
 Current version: v0.1.0
+
 Status: Pre-release
 
 # About
