@@ -1,5 +1,5 @@
 # TRIGA-OpenMC-Model
-An OpenMC implementation of a dimensions-based TRIGA reactor model. This is an independent educational model of a TRIGA-based research reactor, developed from publicly avaiable technical information.
+An OpenMC implementation of a dimensions-based TRIGA reactor model. This is an independent educational model of a TRIGA-based research reactor, developed from publicly available technical information.
 
 # Status
 🚧 Work in progress
@@ -22,7 +22,7 @@ The model is intended as an educational resource for students interested in:
 - Computational physics
 - OpenMC
 
-The project is designed to allow students and researches to explore reactor-physics concepts through a modifiable OpenMC model.
+The project is designed to allow students and researchers to explore reactor-physics concepts through a modifiable OpenMC model.
 
 # Limitations
 
